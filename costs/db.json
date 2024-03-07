@@ -1,21 +1,113 @@
 {
-    "projects": [],
-    "categories": [
-        {
-            "id": 1,
-            "name": "Infra"
-        },
-        {
-            "id": 2,
-            "name": "Desenvolvimento"
-        },
-        {
-            "id": 3,
-            "name": "Design"
-        },
-        {
-            "id": 4,
-            "name": "Planejamento"
-        }
-    ]
+  "projects": [
+    {
+      "id": "d11b",
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "2a88",
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "037c",
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "3b29",
+      "cost": 0,
+      "services": [],
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      }
+    },
+    {
+      "id": "61c4",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "a87a",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "0752",
+      "name": "teste",
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "00d6",
+      "name": "teste",
+      "cost": 0,
+      "services": [],
+      "budget": "123",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      }
+    },
+    {
+      "id": "8ca5",
+      "name": "teste",
+      "cost": 0,
+      "services": [],
+      "budget": "123",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      }
+    },
+    {
+      "id": "f047",
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "153c",
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "98d0",
+      "name": "teste",
+      "budget": "123",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": []
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Planejamento"
+    }
+  ]
 }
